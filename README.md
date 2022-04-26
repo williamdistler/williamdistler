@@ -1,7 +1,7 @@
 ## Hi, I'm William Distler!
 
 - 🔭 I’m currently working on Front-End
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning POO/Java
 - 😄 Pronouns: He/his
 
  <div>
