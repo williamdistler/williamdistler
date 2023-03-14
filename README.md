@@ -1,6 +1,6 @@
 ## Hi, I'm William Distler!
 
-- 🔭 I’m currently working as Fullstack Developer (Java, React, Infra)
+- 🔭 I’m currently working as an Intern Systems Analyst
 - 🌱 I’m currently learning HTML/CSS/JS
 - 😄 Pronouns: He/his
 
