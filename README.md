@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working as an Intern Systems Analyst
 - 🌱 I’m currently learning HTML/CSS/JS
-- 😄 Pronouns: He/his
 
  <div>
   <a href="https://github.com/williamdistler">
