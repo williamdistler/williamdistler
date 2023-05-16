@@ -1,7 +1,7 @@
 ## Hi, I'm William Distler!
 
 - 🔭 I’m currently working as an Intern Software Developer
-- 🌱 I’m currently learning HTML/CSS/JS
+- 🌱 I’m currently learning React/React Native/Next.js/TailwindCSS/Prisma/SQLite/Node.js
 
  <div>
   <a href="https://github.com/williamdistler">
