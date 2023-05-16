@@ -1,6 +1,6 @@
 ## Hi, I'm William Distler!
 
-- 🔭 I’m currently working as an Intern Systems Analyst
+- 🔭 I’m currently working as an Intern Software Developer
 - 🌱 I’m currently learning HTML/CSS/JS
 
  <div>
