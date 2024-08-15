@@ -1,7 +1,7 @@
 ## Hi, I'm William Distler!
 
 - 🔭 I’m currently working as a Software Developer
-- 🌱 I’m currently learning Java/Spring with React/Next.js/TailwindCSS/Node.js
+- 🌱 I’m currently learning Java/Spring
 
  <div>
   <a href="https://github.com/williamdistler">
