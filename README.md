@@ -1,7 +1,7 @@
 ## Hi, I'm William Distler!
 
 - 🔭 I’m currently working as a Java Developer
-- 🌱 I’m currently learning JSF/SOAP
+- 🌱 I’m currently develpoing my Java skills
 
  <div>
   <a href="https://github.com/williamdistler">
